@@ -3,7 +3,7 @@ import requests
 lat = 60
 lon = 21
 def open_weather_key():
-    return "232134e42842e573a3e575478beb3d1e"
+    return "xxx"
 
 def open_weather_map(city):
     req = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={open_weather_key()}"
