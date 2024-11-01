@@ -9,3 +9,8 @@ https://github.com/vesavvo/Python_Ohjelmistoteema/blob/main/English/09_Fundament
 #### Module 10: Association
 https://github.com/vesavvo/Python_Ohjelmistoteema/blob/main/English/10_Association.md
 
+#### Module 11: Inheritance
+https://github.com/vesavvo/Python_Ohjelmistoteema/blob/main/English/11_Inheritance.md
+
+### Module 12: Using external interfaces
+https://github.com/vesavvo/Python_Ohjelmistoteema/blob/main/English/12_Using_External_Interfaces.md
