@@ -12,5 +12,9 @@ https://github.com/vesavvo/Python_Ohjelmistoteema/blob/main/English/10_Associati
 #### Module 11: Inheritance
 https://github.com/vesavvo/Python_Ohjelmistoteema/blob/main/English/11_Inheritance.md
 
-### Module 12: Using external interfaces
+#### Module 12: Using external interfaces
 https://github.com/vesavvo/Python_Ohjelmistoteema/blob/main/English/12_Using_External_Interfaces.md
+
+# Javascript
+## Assignment
+https://github.com/ilkkamtk/JavaScript-english/blob/main/assignments.md
